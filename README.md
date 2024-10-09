@@ -1,4 +1,5 @@
-## monitoring failed pings using Grafana, InfluxDB, and Telegraf.
+## Monitoring Failed Pings with Grafana, InfluxDB, and Telegraf
+This repository provides a comprehensive setup for monitoring failed ping requests using Grafana, InfluxDB, and Telegraf. The solution enables users to track network health and performance by visualizing ping results and identifying potential connectivity issues in real-time.
 
 ### Install Grafana
 
